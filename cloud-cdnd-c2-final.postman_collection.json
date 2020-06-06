@@ -6,12 +6,12 @@
 	},
 	"item": [
 		{
-			"name": "http://localhost:8082/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
+			"name": "http://localhost:8082/filteredimage?image_url=https://anthonywilsonpoetry.files.wordpress.com/2020/05/81dc36d8-5c75-4bc0-9e6e-5f85e4e7dde8.jpeg",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://{{HOST}}/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
+					"raw": "http://{{HOST}}/filteredimage?image_url=https://anthonywilsonpoetry.files.wordpress.com/2020/05/81dc36d8-5c75-4bc0-9e6e-5f85e4e7dde8.jpeg",
 					"protocol": "http",
 					"host": [
 						"{{HOST}}"
@@ -22,7 +22,7 @@
 					"query": [
 						{
 							"key": "image_url",
-							"value": "https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg"
+							"value": "https://anthonywilsonpoetry.files.wordpress.com/2020/05/81dc36d8-5c75-4bc0-9e6e-5f85e4e7dde8.jpeg"
 						}
 					]
 				}
